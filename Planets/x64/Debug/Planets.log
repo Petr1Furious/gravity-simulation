@@ -1,0 +1,67 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(228,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(231,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(338,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(338,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(411,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(461,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(486,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(587,31): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(588,38): warning C4244: аргумент: преобразование "ld" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(588,16): warning C4244: инициализация: преобразование "__int64" в "ld", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(589,36): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(590,40): warning C4244: аргумент: преобразование "ld" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(591,14): warning C4244: инициализация: преобразование "__int64" в "ld", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(595,31): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(596,38): warning C4244: аргумент: преобразование "ld" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(596,16): warning C4244: инициализация: преобразование "__int64" в "ld", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(597,36): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(598,40): warning C4244: аргумент: преобразование "ld" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(788,15): warning C4244: инициализация: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(788,75): warning C4244: инициализация: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(789,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(789,73): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(796,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(796,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(807,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(808,158): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(808,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(819,31): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(819,25): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(820,25): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(821,31): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(821,27): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(828,14): warning C4244: инициализация: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(829,14): warning C4244: инициализация: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(857,28): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(857,25): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(858,25): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(859,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(859,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(889,150): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(889,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(907,13): warning C4244: инициализация: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(936,88): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(936,60): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(988,45): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(1227,51): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(1229,155): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(1230,110): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(555,12): warning C4101: tempTimeSpeed: неиспользованная локальная переменная
+  Planets.vcxproj -> C:\Users\Admin\source\repos\Planets\x64\Debug\Planets.exe
