@@ -1,4 +1,67 @@
-﻿  Source.cpp
+﻿  Button.cpp
+C:\Users\Admin\source\repos\Planets\Planets\Button.cpp(185,26): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Button.cpp(193,95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Button.cpp(193,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Chat.cpp
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(80,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(115,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(135,69): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(144,69): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(170,27): warning C4244: -=: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(174,47): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(180,47): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(184,48): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Chat.cpp(187,74): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+  Functions.cpp
+C:\Users\Admin\source\repos\Planets\Planets\Functions.cpp(94,44): warning C4244: аргумент: преобразование "ld" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Functions.cpp(94,40): warning C4244: аргумент: преобразование "ld" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Functions.cpp(95,44): warning C4244: аргумент: преобразование "ld" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Functions.cpp(95,40): warning C4244: аргумент: преобразование "ld" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Functions.cpp(105,62): warning C4244: аргумент: преобразование "long double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Functions.cpp(106,24): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Functions.cpp(106,20): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Functions.cpp(120,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Menu.cpp
+  Planet.cpp
+C:\Users\Admin\source\repos\Planets\Planets\Planet.cpp(38,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Planet.cpp(40,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Planet.cpp(40,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Planet.cpp(41,68): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Planets\Planets\Planet.cpp(41,24): warning C4244: аргумент: преобразование "ld" в "float", возможна потеря данных
+  Psystem.cpp
+  Source.cpp
 C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(228,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
 C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(231,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
 C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(338,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
@@ -64,4 +127,27 @@ C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(1227,51): warning C4267: 
 C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(1229,155): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
 C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(1230,110): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
 C:\Users\Admin\source\repos\Planets\Planets\Source.cpp(555,12): warning C4101: tempTimeSpeed: неиспользованная локальная переменная
+  Traces.cpp
+C:\Users\Admin\source\repos\Planets\Planets\Traces.cpp(36,107): warning C4244: аргумент: преобразование "ld" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Traces.cpp(36,49): warning C4244: аргумент: преобразование "ld" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Traces.cpp(44,94): warning C4244: аргумент: преобразование "ld" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Planets\Planets\Traces.cpp(44,48): warning C4244: аргумент: преобразование "ld" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  UIelement.cpp
+  Создание кода...
   Planets.vcxproj -> C:\Users\Admin\source\repos\Planets\x64\Debug\Planets.exe
