@@ -22,7 +22,7 @@ All the source files can be found [here][folder2].
 - **T** / **/** - access the command line.
 - All the other controls are available in the menu.
 
-## Creating an object
+#### Creating an object
 
 First, select center of the new object with middle mouse button / left alt + left click. Then move the mouse to select the object radius and click the same button. After that, move the mouse to set the speed vector of the new object and click the same button again.
 If another object is selected, then after new object creation its location and velocity will be set relative to the selected object.
