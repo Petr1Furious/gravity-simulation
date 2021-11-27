@@ -2,11 +2,11 @@
 
 ## Usage
 
-Gravity simulation is a user-friendly program which allows the user to experiment with force of gravity and get a visual demonstration of it. In most cases (if time per update is low enough) the simulation is very accurate. It runs Newton's law of universal gravitation many times per second, so it is able to quickly simulate complex systems with up to 1000 objects. The objects would act almost like they would in real life.
+Gravity simulation is a user-friendly program which allows the user to experiment with the force of gravity and get a visual demonstration of it. In most cases (if time per update is low enough) the simulation is very accurate. It runs Newton's law of universal gravitation many times per second, so it is able to quickly simulate complex systems with up to 1000 objects. The objects would act almost like they would in real life.
 
 ## Files
 
-The [executable file][file0] requires [Resources][folder0] folder and files [msvcp140.dll][file1], [msvcp140_1.dll][file2], [vcruntime140.dll][file3] and [vcruntime140_1.dll][file4] to run (all of them are located [here][folder1]).
+The [executable file][file0] requires the [Resources][folder0] folder and files [msvcp140.dll][file1], [msvcp140_1.dll][file2], [vcruntime140.dll][file3] and [vcruntime140_1.dll][file4] to run (all of them are located [here][folder1]).
 All the source files can be found [here][folder2].
 
 ## Controls
@@ -24,8 +24,8 @@ All the source files can be found [here][folder2].
 
 ## Creating an object
 
-First, select center of the new object with middle mouse button / left alt + left click. Then move the mouse to select the object radius and click the same button. After that move the mouse to set the speed vector of the new object and click the same button again.
-If another object is selected, then after new object creation its location and velocity will be set relatively to the selected object.
+First, select center of the new object with middle mouse button / left alt + left click. Then move the mouse to select the object radius and click the same button. After that, move the mouse to set the speed vector of the new object and click the same button again.
+If another object is selected, then after new object creation its location and velocity will be set relative to the selected object.
 
 ## Commands
 
