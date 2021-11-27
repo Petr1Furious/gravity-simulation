@@ -19,8 +19,9 @@ All the source files can be found [here][folder2].
 - **P** - pause
 - **<** -  slow down the time speed
 - **>** - speed up the time speed
-- **T** / **/** - access the command line.
-- All the other controls are available in the menu.
+- **T** / **/** - access the command line
+- **F11** - switch to fullscreen mode
+- All the other controls are available in the menu
 
 #### Creating an object
 
